@@ -22,4 +22,21 @@ Página Web creada para facilitar el proceso de adopción de mascotas tanto como
 - [Luciano Firpo](https://github.com/Luckiifirpo)
 - [Oscar Burgos](https://github.com/Oskarp88)
 - [William Estrada](https://github.com/wcamest)
-- [Nahuel Grodz](https://github.com/Nahuk…
+- [Nahuel Grodz](https://github.com/Nahuk)
+- [Fernando Frias](https://github.com/ffernando93)
+
+
+
+## Deployment
+
+Usa el siguiente Link para acceder al proyecto
+ 
+ [Huellitas de Amor](https://huellitas-de-amor.vercel.app/)
+
+## Demo
+
+Insert gif or link to demo
+
+[Video de Huellitas](https://youtu.be/n4ZuZa49qbM)
+
+![Logo](https://huellitas-de-amor.vercel.app/assets/logo-30bd02a2.svg)
