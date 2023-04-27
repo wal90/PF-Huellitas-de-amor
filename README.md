@@ -1,6 +1,7 @@
 # Huellitas de Amor
 
 Página Web creada para facilitar el proceso de adopción de mascotas tanto como para personas, fundaciones, ong, hogares de paso.
+![huellitas](https://user-images.githubusercontent.com/71738691/234940878-0faa2e4c-21b2-46d6-963d-61de8d753deb.png)
 
 ## Features
 
